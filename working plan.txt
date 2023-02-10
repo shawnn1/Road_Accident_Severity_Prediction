@@ -1,0 +1,6 @@
+1.dataset collection
+2.filling missing values
+3.label encoding
+4.feature selection
+5.test and training
+6.github 
